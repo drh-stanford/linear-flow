@@ -1,0 +1,5 @@
+d <- read.csv('_data.csv')
+summary(d)
+summary(lm(y ~ x, data=d))
+sink('_results.txt')
+summary(lm(y ~ x, data=d))

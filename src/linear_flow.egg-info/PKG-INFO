@@ -1,0 +1,18 @@
+Metadata-Version: 1.0
+Name: linear-flow
+Version: 0.9.3
+Summary: A Swiss-army knife for scientific workflows using linear workflows
+Home-page: http://www.nceas.ucsb.edu/
+Author: Darren Hardy
+Author-email: hardy@nceas.ucsb.edu
+License: UNKNOWN
+Description: Flow is a *Format*-neutral, *Language*-agnostic, *Open*-source *Workflow* tool
+        -- a veritible Swiss-army knife for scientific workflow integration,
+        automation, execution, and reporting. Flow cares not about which data formats
+        or software tools you use. Flow cares only about running workflows with
+        minimal integration effort. Flow uses a database of workflow *styles* and a
+        simple linear process model to automate execution for a myrid of different
+        scientific workflow styles. For example, a 'simple' style uses the following
+        process model: Setup, Import, Ingest, Model, Digest, Export, and Finish.
+        
+Platform: UNKNOWN
